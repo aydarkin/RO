@@ -2,7 +2,9 @@
 
 **Выполнили**: Ибрагимова Карина, Рахимова Аделина, Степанова Дарья, Шакиров Айдар
 ## Описание
-Реализован в виде Jupyter notebook. Файл с конфигурацией ([env.yaml](env.yaml)) лежит в корне проекта
+Реализован в виде Jupyter notebook. Файл с конфигурацией среды Anaconda ([env.yaml](env.yaml)) лежит в корне проекта. 
+
+[Инструкция по установке](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment)
 ## Запуск
 ### Обучение или распознавание изображения
 Используйте ноутбук [program.ipynb](program.ipynb)
